@@ -1,8 +1,8 @@
 /**
- * Descripción
- * @method Nombre de la función
- * @param Parámetro A
- * @param Parámetro B
+ * Coversion de unidades, de metros, de yardas, de pies y de pulgadas.
+ * @method cambiarUnidades
+ * @param {string} id - El id de los inputs de metros,yardas,pies o pulgadas.
+ * @param {number} valor -El valor de los inputs de metros,yardas,pies o pulgadas.
  * @return Valor que retorna
  */
 
