@@ -27,6 +27,7 @@ h1{
 .color-div{
     background: #feab5a;
     max-width: 500px;
+    display: none;
 }
 
 .operacionesMat input{
@@ -47,6 +48,11 @@ input:focus {
     border:1px solid #000000;
     background: rgba(240, 255, 105, 0.47);
 }
+
+.canvas{
+    border:1px solid #000000;
+}
+
 
 ul {
     list-style-type: none;
